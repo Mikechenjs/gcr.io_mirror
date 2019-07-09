@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/addon-resizer:1.8.4
+FROM quay.io/prometheus/prometheus:v2.10.0
 MAINTAINER 50224274@qq.com
